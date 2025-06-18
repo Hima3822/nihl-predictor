@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NIHL Prediction</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-4">Noise-Induced Hearing Loss Predictor</h2>
+        <form method="POST">
+            <div class="row">
+
+                <div class="col-md-4 mb-3">
+                    <label for="gender">Gender</label>
+                    <select name="gender" class="form-control" required>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </div>
+
+                <div class="col-md-4 mb-3">
+                    <label for="age_group">Age Group</label>
+                    <select name="age_group" class="form-control" required>
+                        <option value="<25">&lt;25</option>
+                        <option value="25-34">25-34</option>
+                        <option value="35-44">35-44</option>
+                        <option value="45-54">45-54</option>
+                        <option value="55-64">55-64</option>
+                        <option value="65+">65+</option>
+                    </select>
+                </div>
+
+                <input type="hidden" name="region" value="MA">
+
+                <div class="col-md-4 mb-3">
+                    <label for="naics">NAICS Code</label>
+                    <input type="number" name="naics" class="form-control" required>
+                </div>
+
+                {% for freq in ['l3k', 'l4k', 'l6k', 'r3k', 'r4k', 'r6k'] %}
+                <div class="col-md-2 mb-3">
+                    <label for="{{ freq }}">{{ freq.upper() }}</label>
+                    <input type="number" step="0.01" class="form-control" name="{{ freq }}" required>
+                </div>
+                {% endfor %}
+
+            </div>
+            <button type="submit" class="btn btn-primary mt-3">Predict</button>
+        </form>
+
+        {% if prediction %}
+        <div class="alert alert-info mt-4">
+            <h4>Prediction: <strong>{{ prediction }}</strong></h4>
+            <p><strong>Your Input:</strong></p>
+            <ul>
+                {% for key, value in inputs.items() %}
+                <li><strong>{{ key }}:</strong> {{ value }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

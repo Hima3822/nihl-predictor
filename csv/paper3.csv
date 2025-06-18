@@ -1,0 +1,1000 @@
+test_date,nid,L500k,L1k,L2k,L3k,L4k,L6k,L8k,R500k,R1k,R2k,R3k,R4k,R6k,R8k,gender,naics,age_group,region,NAICS_descr
+08-FEB-2005,1,10,5,5,15,10,5,25,20,20,15,10,10,25,45,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2009,1,15,10,5,15,5,10,25,15,20,20,15,10,35,55,M,331512,5,MA,Steel Investment Foundries
+08-FEB-2005,2,5,10,20,20,15,20,0,5,0,5,10,10,15,15,M,331512,2,MA,Steel Investment Foundries
+29-FEB-2008,2,15,5,15,20,20,15,15,10,0,10,15,30,20,15,M,331512,3,MA,Steel Investment Foundries
+08-FEB-2006,3,25,20,15,20,35,25,15,20,20,10,15,40,30,30,M,331512,3,MA,Steel Investment Foundries
+08-FEB-2005,4,15,20,30,30,40,60,45,10,25,25,35,25,25,35,M,331512,,MA,Steel Investment Foundries
+12-FEB-2007,4,10,15,35,25,25,70,50,10,25,35,40,25,35,40,M,331512,,MA,Steel Investment Foundries
+17-MAR-2010,5,25,25,35,60,80,90,85,45,50,45,90,90,90,65,M,331512,5,MA,Steel Investment Foundries
+08-FEB-2005,6,10,10,10,40,45,35,0,10,10,5,25,45,20,15,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2010,6,10,5,10,45,45,35,20,10,5,10,35,45,20,15,M,331512,4,MA,Steel Investment Foundries
+08-FEB-2005,8,15,10,10,10,35,35,5,15,10,5,35,45,25,10,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2010,8,20,15,15,30,60,55,35,15,15,5,50,60,45,20,M,331512,4,MA,Steel Investment Foundries
+08-FEB-2005,9,5,5,5,5,15,15,10,5,5,5,10,5,5,10,M,331512,2,MA,Steel Investment Foundries
+29-FEB-2008,9,10,5,0,5,15,15,15,5,0,5,5,5,5,20,M,331512,3,MA,Steel Investment Foundries
+08-FEB-2005,10,10,5,0,5,10,5,0,10,5,5,5,0,0,0,M,331512,2,MA,Steel Investment Foundries
+17-MAR-2010,10,0,0,0,10,10,0,0,5,5,5,5,5,5,5,M,331512,2,MA,Steel Investment Foundries
+29-FEB-2008,11,30,20,25,60,60,60,30,25,20,35,65,65,70,50,M,331512,5,MA,Steel Investment Foundries
+08-FEB-2005,12,15,10,5,5,25,25,10,10,10,5,15,40,20,25,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2010,12,10,10,5,5,40,20,10,10,10,10,25,45,15,30,M,331512,3,MA,Steel Investment Foundries
+08-FEB-2005,13,10,5,10,45,50,35,30,10,10,10,10,20,5,20,M,331512,5,MA,Steel Investment Foundries
+29-FEB-2008,14,15,5,10,55,60,75,75,15,5,20,65,65,75,80,M,331512,5,MA,Steel Investment Foundries
+17-MAR-2010,15,15,15,10,20,50,45,15,15,5,5,40,45,55,30,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2009,17,15,5,5,5,35,10,10,10,0,0,20,10,10,0,M,331512,2,MA,Steel Investment Foundries
+08-FEB-2006,18,10,10,5,35,40,35,10,10,5,0,10,20,30,10,M,331512,2,MA,Steel Investment Foundries
+12-FEB-2007,20,15,5,10,50,50,15,20,15,10,10,35,50,15,10,M,331512,4,MA,Steel Investment Foundries
+22-FEB-2006,21,5,0,5,20,10,25,0,5,0,0,5,5,15,10,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2009,22,10,5,10,15,25,20,10,5,10,5,10,10,10,10,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2009,23,10,5,0,0,25,5,5,5,5,5,0,30,0,15,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2010,24,5,0,0,0,5,10,10,0,0,0,0,15,5,10,M,331512,3,MA,Steel Investment Foundries
+12-FEB-2007,26,15,5,15,25,35,20,5,10,15,20,25,55,15,30,M,331512,3,MA,Steel Investment Foundries
+12-FEB-2007,27,10,5,5,10,5,0,5,10,5,10,10,10,15,5,M,331512,2,MA,Steel Investment Foundries
+12-FEB-2007,28,20,10,20,60,55,45,55,30,20,20,40,60,55,55,M,331512,,MA,Steel Investment Foundries
+17-MAR-2009,29,10,5,15,15,35,20,10,10,15,10,0,10,25,20,M,331512,4,MA,Steel Investment Foundries
+12-FEB-2007,30,25,20,15,10,10,30,15,25,20,15,25,30,10,5,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2010,31,10,20,15,20,20,20,10,10,10,10,15,15,15,10,M,331512,1,MA,Steel Investment Foundries
+17-MAR-2009,32,10,0,10,5,5,20,15,10,0,15,5,0,5,10,M,331512,2,MA,Steel Investment Foundries
+12-FEB-2007,33,15,10,5,10,5,15,20,10,15,5,10,15,0,10,M,331512,2,MA,Steel Investment Foundries
+17-MAR-2009,34,15,10,10,25,0,10,10,10,10,10,15,10,10,5,M,331512,2,MA,Steel Investment Foundries
+17-MAR-2009,35,15,15,30,55,50,40,40,15,15,25,60,50,35,50,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2010,36,25,20,20,25,25,25,35,15,10,5,0,5,5,5,M,331512,1,MA,Steel Investment Foundries
+29-FEB-2008,37,10,5,0,20,10,20,10,10,5,15,5,0,5,10,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2009,38,10,5,5,10,10,0,5,10,5,5,0,5,0,0,M,331512,2,MA,Steel Investment Foundries
+17-MAR-2009,39,10,5,10,35,15,20,10,10,5,5,20,45,15,10,M,331512,2,MA,Steel Investment Foundries
+17-MAR-2010,40,15,10,10,15,20,15,20,15,15,5,10,10,10,15,M,331512,1,MA,Steel Investment Foundries
+17-MAR-2010,41,20,15,10,15,5,10,5,15,5,5,10,10,20,15,M,331512,2,MA,Steel Investment Foundries
+17-MAR-2010,42,5,10,15,15,20,35,40,5,10,10,10,20,20,20,M,331512,4,MA,Steel Investment Foundries
+17-MAR-2010,43,20,15,10,10,30,15,5,15,15,10,10,20,20,5,M,331512,4,MA,Steel Investment Foundries
+29-FEB-2008,44,10,10,15,20,20,20,10,10,10,10,10,10,40,10,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2009,45,10,5,5,15,10,20,5,5,0,5,5,10,5,0,M,331512,1,MA,Steel Investment Foundries
+17-MAR-2010,46,10,15,15,15,20,25,25,5,5,10,10,15,15,25,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2010,47,15,15,5,20,25,15,20,5,5,5,15,25,15,15,M,331512,3,MA,Steel Investment Foundries
+17-MAR-2010,48,5,0,5,35,45,25,25,5,15,10,55,55,50,35,M,331512,3,MA,Steel Investment Foundries
+13-MAR-2009,49,5,0,0,20,40,45,15,5,0,10,10,40,30,30,M,311119,3,MA,Other Animal Food Manufacturing
+24-MAR-2008,51,10,5,5,0,5,30,15,0,5,5,10,5,15,0,F,311119,4,MA,Other Animal Food Manufacturing
+13-MAR-2009,52,10,5,0,0,10,20,10,10,5,5,0,5,0,0,M,311119,2,MA,Other Animal Food Manufacturing
+13-MAR-2009,53,0,5,10,15,20,20,20,5,5,20,10,10,15,10,M,311119,2,MA,Other Animal Food Manufacturing
+25-OCT-2005,54,15,10,15,5,10,5,10,10,10,10,0,5,15,5,M,921190,1,MA,Other General Government Support
+19-NOV-2009,54,10,5,10,10,15,20,20,15,5,5,0,0,20,20,M,921190,2,MA,Other General Government Support
+27-OCT-2005,55,0,5,15,15,35,25,20,15,5,10,15,25,25,20,M,921190,4,MA,Other General Government Support
+19-NOV-2009,55,5,0,10,15,30,25,20,10,10,10,20,20,30,25,M,921190,4,MA,Other General Government Support
+12-JUN-2002,56,5,10,0,0,15,30,35,15,10,10,15,10,35,10,M,921190,4,MA,Other General Government Support
+16-DEC-2009,56,5,10,5,5,25,35,40,5,15,5,5,25,25,15,M,921190,5,MA,Other General Government Support
+24-NOV-2004,57,10,5,10,20,35,30,20,10,5,10,50,45,40,20,M,921190,5,MA,Other General Government Support
+15-NOV-2006,57,15,10,15,30,45,35,20,15,15,20,55,45,45,20,M,921190,5,MA,Other General Government Support
+19-NOV-2009,58,0,0,0,5,0,5,15,5,0,5,5,0,5,10,M,921190,1,MA,Other General Government Support
+20-OCT-2005,59,20,15,10,0,10,15,20,15,5,10,15,10,20,10,M,921190,2,MA,Other General Government Support
+06-NOV-2008,59,20,15,10,5,10,20,20,10,5,5,10,0,20,20,M,921190,2,MA,Other General Government Support
+15-NOV-2006,60,15,5,0,0,5,10,0,10,5,5,0,5,15,15,M,921190,3,MA,Other General Government Support
+07-NOV-2005,61,5,0,0,15,30,30,0,10,0,0,10,10,15,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,61,5,5,5,25,40,30,15,5,0,5,10,30,25,15,M,921190,3,MA,Other General Government Support
+24-OCT-2005,62,0,0,5,15,35,35,30,5,0,5,15,45,15,15,M,921190,4,MA,Other General Government Support
+19-NOV-2009,62,5,0,10,15,35,45,35,5,0,5,5,45,25,15,M,921190,4,MA,Other General Government Support
+31-OCT-2005,64,20,15,35,55,60,65,50,15,10,25,60,60,60,50,M,921190,4,MA,Other General Government Support
+17-DEC-2009,64,5,5,35,60,65,70,60,5,10,25,60,65,70,65,M,921190,5,MA,Other General Government Support
+20-OCT-2005,65,20,15,15,15,35,45,40,15,15,10,10,30,15,25,M,921190,5,MA,Other General Government Support
+19-NOV-2009,65,15,10,10,20,40,50,45,15,15,20,25,40,30,40,M,921190,5,MA,Other General Government Support
+21-OCT-2005,66,35,25,30,55,70,80,80,10,15,20,35,55,55,60,M,921190,3,MA,Other General Government Support
+02-DEC-2008,66,20,20,20,40,70,65,85,20,20,35,45,70,85,90,M,921190,3,MA,Other General Government Support
+20-OCT-2005,67,5,0,10,10,0,15,0,10,10,0,0,0,5,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,67,5,0,10,10,10,10,5,5,5,0,5,5,5,10,M,921190,3,MA,Other General Government Support
+30-OCT-2007,68,10,5,25,40,70,70,70,10,10,25,30,35,35,35,M,921190,3,MA,Other General Government Support
+18-OCT-2005,69,0,0,10,35,65,70,55,5,5,0,55,60,65,45,M,921190,4,MA,Other General Government Support
+16-DEC-2009,69,5,5,10,35,65,55,65,5,5,5,60,55,70,55,M,921190,4,MA,Other General Government Support
+07-NOV-2005,70,10,5,20,55,55,25,10,15,15,5,65,55,20,0,M,921190,3,MA,Other General Government Support
+15-DEC-2009,70,5,10,25,55,50,25,5,10,5,5,60,55,25,5,M,921190,3,MA,Other General Government Support
+30-NOV-2004,71,0,0,0,0,0,20,0,10,0,0,0,0,5,0,M,921190,1,MA,Other General Government Support
+06-NOV-2008,71,10,0,0,0,0,20,0,0,0,0,0,0,0,0,M,921190,2,MA,Other General Government Support
+19-NOV-2009,72,10,10,15,20,20,35,30,5,5,5,5,10,20,25,M,921190,2,MA,Other General Government Support
+19-NOV-2009,73,10,10,15,15,15,10,0,10,10,0,15,10,5,15,M,921190,2,MA,Other General Government Support
+19-OCT-2005,74,0,5,0,15,20,20,0,10,15,5,5,5,25,25,M,921190,3,MA,Other General Government Support
+11-DEC-2009,74,0,0,0,0,0,0,0,5,10,0,0,10,10,20,M,921190,3,MA,Other General Government Support
+26-OCT-2005,75,5,0,5,0,0,20,15,5,5,5,0,0,10,0,M,921190,1,MA,Other General Government Support
+16-DEC-2009,75,0,10,10,5,5,5,5,5,0,5,5,5,25,0,M,921190,2,MA,Other General Government Support
+13-OCT-2005,76,10,10,5,5,10,10,15,5,5,5,15,10,5,5,M,921190,4,MA,Other General Government Support
+19-NOV-2009,76,5,5,0,0,5,15,30,5,0,5,20,10,5,10,M,921190,5,MA,Other General Government Support
+25-OCT-2005,77,5,5,5,0,0,30,10,5,5,0,0,0,20,10,M,921190,3,MA,Other General Government Support
+19-NOV-2009,77,15,15,5,5,5,10,20,10,10,0,0,0,10,30,M,921190,3,MA,Other General Government Support
+11-DEC-2009,78,10,0,0,15,5,30,25,15,5,10,25,0,0,0,M,921190,5,MA,Other General Government Support
+01-DEC-2004,79,5,5,10,55,55,35,10,10,5,0,30,45,20,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,79,10,10,15,60,65,35,15,10,5,5,50,50,25,0,M,921190,4,MA,Other General Government Support
+17-DEC-2004,81,10,5,5,5,25,30,20,10,10,0,5,20,15,25,M,921190,3,MA,Other General Government Support
+06-NOV-2008,81,5,5,10,10,30,10,5,10,5,5,5,10,25,15,M,921190,3,MA,Other General Government Support
+31-OCT-2005,83,20,40,50,60,60,60,60,20,40,45,55,60,55,65,M,921190,4,MA,Other General Government Support
+06-NOV-2008,83,0,40,45,60,60,60,60,25,35,45,60,40,50,75,M,921190,4,MA,Other General Government Support
+28-OCT-2005,84,15,15,5,15,10,40,35,10,10,5,15,15,25,20,M,921190,5,MA,Other General Government Support
+19-NOV-2009,84,15,10,5,20,10,35,35,10,10,10,10,20,25,15,M,921190,5,MA,Other General Government Support
+08-DEC-2004,85,5,0,10,10,15,15,15,5,0,10,20,35,0,0,M,921190,5,MA,Other General Government Support
+17-DEC-2009,85,5,0,0,0,5,15,20,5,5,5,25,35,5,15,M,921190,5,MA,Other General Government Support
+25-OCT-2005,86,25,25,30,20,25,30,15,25,40,35,20,15,30,0,M,921190,3,MA,Other General Government Support
+30-OCT-2007,86,20,25,30,20,30,20,15,30,35,30,25,15,15,0,M,921190,4,MA,Other General Government Support
+21-NOV-2005,87,5,5,0,0,5,0,10,5,5,0,0,0,5,5,M,921190,1,MA,Other General Government Support
+30-OCT-2007,87,10,5,0,10,20,10,5,10,10,10,5,15,5,0,M,921190,1,MA,Other General Government Support
+19-NOV-2009,88,5,5,0,10,50,55,50,0,5,5,25,80,85,80,M,921190,3,MA,Other General Government Support
+17-OCT-2005,89,5,0,5,0,5,10,0,5,0,0,0,5,0,0,M,921190,1,MA,Other General Government Support
+19-NOV-2009,89,5,0,10,10,10,0,0,10,5,5,0,15,0,0,M,921190,2,MA,Other General Government Support
+18-OCT-2005,90,5,5,10,5,0,10,10,0,5,5,10,5,15,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,90,5,5,10,15,10,20,20,10,10,15,20,10,20,20,M,921190,4,MA,Other General Government Support
+27-OCT-2005,91,5,0,5,0,15,30,15,5,10,5,5,5,10,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,91,10,0,5,5,20,25,30,5,5,5,5,5,5,15,M,921190,3,MA,Other General Government Support
+27-OCT-2005,92,5,0,0,5,25,5,15,5,5,5,5,35,10,0,M,921190,3,MA,Other General Government Support
+19-NOV-2009,92,5,5,0,10,25,15,25,0,0,5,5,35,10,5,M,921190,3,MA,Other General Government Support
+18-OCT-2005,93,0,10,15,15,45,50,55,5,0,10,15,45,40,30,M,921190,2,MA,Other General Government Support
+19-NOV-2009,93,5,10,0,15,60,60,60,5,5,5,15,60,55,50,M,921190,2,MA,Other General Government Support
+21-OCT-2005,95,0,15,20,30,30,45,60,15,15,20,35,45,45,60,M,921190,5,MA,Other General Government Support
+15-NOV-2006,95,10,10,25,35,25,50,65,15,10,25,45,45,55,60,M,921190,5,MA,Other General Government Support
+24-OCT-2005,96,5,0,5,5,20,10,20,0,5,5,5,0,10,10,M,921190,3,MA,Other General Government Support
+30-OCT-2007,96,10,5,10,10,20,15,20,10,5,20,10,5,15,15,M,921190,3,MA,Other General Government Support
+27-OCT-2005,97,5,0,10,15,10,10,35,10,10,10,15,20,15,30,M,921190,4,MA,Other General Government Support
+19-NOV-2009,97,5,0,10,20,20,10,25,15,5,0,15,20,25,30,M,921190,4,MA,Other General Government Support
+14-OCT-2005,100,15,20,10,20,30,25,20,0,5,5,5,15,15,15,M,921190,1,MA,Other General Government Support
+30-OCT-2007,100,5,15,10,15,30,15,15,5,5,15,15,20,15,20,M,921190,1,MA,Other General Government Support
+07-DEC-2004,101,10,10,15,30,40,50,40,5,10,5,25,45,30,30,M,921190,4,MA,Other General Government Support
+19-NOV-2009,101,10,10,15,35,45,45,45,10,10,10,30,45,35,35,M,921190,4,MA,Other General Government Support
+25-OCT-2005,102,15,5,0,0,10,35,20,5,0,0,0,0,10,0,M,921190,2,MA,Other General Government Support
+06-NOV-2008,102,15,5,0,5,20,25,15,0,0,0,0,0,0,0,M,921190,3,MA,Other General Government Support
+13-OCT-2005,103,10,10,10,0,15,25,30,5,5,0,0,10,0,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,103,15,10,20,5,20,25,25,15,10,10,10,20,10,15,M,921190,3,MA,Other General Government Support
+31-OCT-2005,104,5,5,0,0,35,20,5,5,0,5,5,5,10,10,M,921190,2,MA,Other General Government Support
+19-NOV-2009,104,5,5,0,25,40,15,0,0,0,0,15,25,15,25,M,921190,3,MA,Other General Government Support
+09-DEC-2004,105,10,0,10,30,15,30,25,15,10,15,35,15,25,40,M,921190,4,MA,Other General Government Support
+17-DEC-2009,105,5,0,10,30,20,40,30,10,5,15,35,20,30,40,M,921190,4,MA,Other General Government Support
+01-NOV-2005,106,5,0,5,15,25,20,35,5,10,5,15,5,20,35,M,921190,4,MA,Other General Government Support
+17-DEC-2009,106,5,5,10,15,30,35,50,10,10,0,25,20,30,35,M,921190,4,MA,Other General Government Support
+06-NOV-2008,107,25,15,20,20,5,20,20,20,10,10,5,10,15,10,M,921190,3,MA,Other General Government Support
+17-OCT-2005,108,5,5,10,5,15,30,15,5,5,5,10,15,20,20,M,921190,4,MA,Other General Government Support
+19-NOV-2009,108,5,0,0,15,0,20,20,5,0,10,5,20,20,25,M,921190,5,MA,Other General Government Support
+11-OCT-2005,109,20,20,30,25,30,35,25,15,20,15,15,5,20,55,M,921190,3,MA,Other General Government Support
+16-DEC-2009,109,25,25,25,30,50,50,40,15,25,20,25,35,35,50,M,921190,4,MA,Other General Government Support
+24-NOV-2004,110,15,10,20,15,15,60,40,15,20,15,5,0,25,40,M,921190,4,MA,Other General Government Support
+06-NOV-2008,110,10,15,30,30,45,50,40,15,20,15,10,15,30,30,M,921190,5,MA,Other General Government Support
+24-OCT-2005,111,5,10,20,55,55,50,55,5,5,15,55,55,55,55,M,921190,4,MA,Other General Government Support
+19-NOV-2009,111,5,5,20,55,55,55,55,5,5,15,60,50,70,55,M,921190,4,MA,Other General Government Support
+13-OCT-2005,112,5,5,5,10,5,0,15,5,5,0,0,5,15,15,M,921190,2,MA,Other General Government Support
+19-NOV-2009,112,10,5,5,5,10,30,15,5,5,10,10,0,20,20,M,921190,3,MA,Other General Government Support
+07-DEC-2004,113,5,0,15,10,15,30,25,10,0,0,5,10,0,25,M,921190,2,MA,Other General Government Support
+15-NOV-2006,113,5,0,0,10,10,35,10,5,0,0,0,0,20,5,M,921190,2,MA,Other General Government Support
+11-OCT-2005,114,5,10,5,10,10,10,15,5,0,0,5,20,45,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,114,0,5,0,0,0,25,15,5,5,0,5,25,25,35,M,921190,3,MA,Other General Government Support
+26-OCT-2005,115,0,5,10,20,25,35,25,0,0,0,15,15,15,15,M,921190,4,MA,Other General Government Support
+19-NOV-2009,115,5,15,20,20,30,35,20,5,5,5,15,15,20,15,M,921190,4,MA,Other General Government Support
+14-JUN-2002,116,10,15,15,15,35,40,30,15,15,15,35,50,15,20,M,921190,4,MA,Other General Government Support
+30-OCT-2007,116,10,10,10,10,40,30,15,5,0,5,25,30,20,25,M,921190,4,MA,Other General Government Support
+19-OCT-2005,117,10,10,5,10,5,0,20,5,10,0,20,35,20,30,M,921190,3,MA,Other General Government Support
+19-NOV-2009,117,0,0,0,0,5,15,5,5,15,25,20,35,20,10,M,921190,4,MA,Other General Government Support
+19-OCT-2005,118,15,10,30,70,75,85,70,10,15,60,55,55,60,65,M,921190,4,MA,Other General Government Support
+06-NOV-2008,118,10,5,30,65,75,80,65,5,15,55,55,60,60,70,M,921190,4,MA,Other General Government Support
+19-NOV-2009,119,15,5,0,10,20,65,40,15,10,5,20,45,40,75,M,921190,3,MA,Other General Government Support
+18-OCT-2005,120,0,0,5,0,25,0,25,5,10,0,5,15,10,10,M,921190,3,MA,Other General Government Support
+30-OCT-2007,120,5,0,5,10,20,0,15,5,10,0,5,5,0,10,M,921190,3,MA,Other General Government Support
+06-NOV-2008,121,10,0,5,10,25,20,30,15,5,0,10,15,5,0,M,921190,3,MA,Other General Government Support
+07-DEC-2004,122,15,20,20,20,30,50,55,15,15,10,25,25,60,40,M,921190,5,MA,Other General Government Support
+02-DEC-2008,122,15,20,15,30,35,65,90,15,20,20,30,40,55,70,M,921190,5,MA,Other General Government Support
+07-NOV-2005,123,5,0,10,15,30,40,20,5,0,0,0,5,15,10,M,921190,4,MA,Other General Government Support
+19-NOV-2009,123,10,10,15,25,45,40,30,10,5,5,15,30,35,20,M,921190,4,MA,Other General Government Support
+01-NOV-2005,124,5,5,15,65,75,85,65,10,10,10,40,55,65,60,M,921190,4,MA,Other General Government Support
+15-DEC-2009,124,5,5,10,70,80,80,75,5,5,5,45,75,60,55,M,921190,4,MA,Other General Government Support
+17-OCT-2005,125,5,0,5,10,15,25,5,10,5,5,10,5,15,5,F,921190,4,MA,Other General Government Support
+19-NOV-2009,125,15,5,10,0,15,30,15,15,10,10,15,10,20,25,F,921190,4,MA,Other General Government Support
+01-DEC-2004,126,20,10,15,20,10,20,30,20,20,10,20,15,10,10,M,921190,3,MA,Other General Government Support
+19-NOV-2009,126,15,20,15,10,5,20,15,25,20,25,20,20,20,20,M,921190,3,MA,Other General Government Support
+20-OCT-2005,127,10,5,5,5,15,45,55,5,0,5,10,15,25,45,M,921190,4,MA,Other General Government Support
+19-NOV-2009,127,10,5,5,10,25,45,45,10,5,5,15,25,35,50,M,921190,4,MA,Other General Government Support
+14-OCT-2005,128,5,0,5,10,30,30,30,0,0,10,10,25,25,20,M,921190,3,MA,Other General Government Support
+19-NOV-2009,128,5,0,10,15,30,30,30,5,5,15,15,35,25,30,M,921190,3,MA,Other General Government Support
+24-OCT-2005,129,10,5,45,60,65,70,70,15,10,45,65,75,65,90,M,921190,4,MA,Other General Government Support
+30-OCT-2007,129,15,15,50,65,70,60,75,10,10,50,65,75,55,75,M,921190,4,MA,Other General Government Support
+03-NOV-2005,130,10,5,0,0,15,5,5,10,5,5,5,0,5,0,M,921190,1,MA,Other General Government Support
+19-NOV-2009,130,5,5,0,0,0,5,5,5,5,5,5,5,0,5,M,921190,1,MA,Other General Government Support
+15-NOV-2002,131,5,5,5,15,15,30,35,25,20,15,10,20,15,15,M,921190,2,MA,Other General Government Support
+17-OCT-2005,132,10,5,5,20,15,10,15,10,0,5,5,10,10,10,M,921190,3,MA,Other General Government Support
+19-NOV-2009,132,10,5,5,15,15,5,15,5,0,5,10,10,15,20,M,921190,3,MA,Other General Government Support
+15-NOV-2006,133,20,10,5,5,30,30,0,15,5,5,0,15,15,0,M,921190,1,MA,Other General Government Support
+09-DEC-2004,134,0,0,0,0,5,25,25,5,0,0,5,0,15,20,M,921190,3,MA,Other General Government Support
+19-NOV-2009,134,10,0,0,0,10,30,15,5,0,0,0,10,15,10,M,921190,4,MA,Other General Government Support
+20-OCT-2005,135,20,15,50,50,40,40,30,25,20,35,60,55,35,45,M,921190,4,MA,Other General Government Support
+19-NOV-2009,135,25,20,55,60,45,50,35,25,15,45,60,50,30,55,M,921190,4,MA,Other General Government Support
+19-NOV-2009,136,0,5,25,60,55,30,5,5,5,5,30,50,15,5,M,921190,3,MA,Other General Government Support
+01-NOV-2005,137,10,0,0,15,35,25,20,5,5,5,40,30,25,15,M,921190,4,MA,Other General Government Support
+15-DEC-2009,137,10,10,15,25,45,25,20,5,10,10,45,45,30,15,M,921190,5,MA,Other General Government Support
+11-OCT-2005,138,10,5,5,20,35,60,45,5,5,5,5,20,25,20,M,921190,4,MA,Other General Government Support
+19-NOV-2009,138,15,5,5,25,35,60,60,15,5,10,10,25,35,30,M,921190,4,MA,Other General Government Support
+01-NOV-2005,139,5,5,5,25,65,65,25,5,0,5,15,45,50,10,M,921190,4,MA,Other General Government Support
+14-DEC-2009,139,10,10,5,40,75,55,40,10,10,10,10,45,60,20,M,921190,4,MA,Other General Government Support
+11-OCT-2005,140,10,15,15,15,20,15,15,10,15,10,15,15,15,25,M,921190,1,MA,Other General Government Support
+19-NOV-2009,140,10,15,15,20,25,15,20,10,15,10,15,15,20,15,M,921190,1,MA,Other General Government Support
+14-OCT-2005,142,10,20,10,10,20,30,25,10,20,10,10,15,25,25,M,921190,2,MA,Other General Government Support
+19-NOV-2009,142,10,20,10,15,25,20,20,5,10,10,15,15,25,15,M,921190,2,MA,Other General Government Support
+06-NOV-2008,143,50,80,**,**,**,**,**,55,80,**,**,**,**,**,M,921190,3,MA,Other General Government Support
+17-OCT-2005,144,15,15,35,60,45,55,80,15,20,40,60,50,55,85,M,921190,4,MA,Other General Government Support
+19-NOV-2009,144,10,10,35,60,55,50,70,10,20,35,60,50,50,85,M,921190,5,MA,Other General Government Support
+25-OCT-2005,145,5,0,0,15,5,0,0,5,0,0,5,5,10,5,M,921190,3,MA,Other General Government Support
+06-NOV-2008,145,5,5,0,15,5,0,5,5,0,5,5,5,20,10,M,921190,3,MA,Other General Government Support
+19-OCT-2005,146,15,10,5,55,60,65,40,15,10,5,35,55,70,40,M,921190,4,MA,Other General Government Support
+19-NOV-2009,146,5,5,0,60,55,60,45,20,10,5,40,50,65,60,M,921190,5,MA,Other General Government Support
+21-OCT-2005,147,10,0,0,0,5,15,0,10,5,10,5,15,25,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,147,15,5,0,5,10,10,5,0,0,5,5,25,10,20,M,921190,3,MA,Other General Government Support
+27-OCT-2005,148,5,0,0,5,20,5,5,5,0,0,0,30,35,15,M,921190,1,MA,Other General Government Support
+16-DEC-2009,148,5,0,5,20,30,15,10,0,0,0,10,45,35,5,M,921190,2,MA,Other General Government Support
+28-OCT-2005,149,5,0,15,10,15,15,10,5,0,0,0,0,5,10,M,921190,3,MA,Other General Government Support
+19-NOV-2009,149,5,0,10,10,15,20,5,5,0,5,5,10,10,10,M,921190,3,MA,Other General Government Support
+27-OCT-2005,150,25,20,30,65,65,55,55,25,20,25,50,55,65,55,M,921190,4,MA,Other General Government Support
+06-NOV-2008,150,15,15,35,70,55,50,65,15,15,20,50,60,65,50,M,921190,4,MA,Other General Government Support
+02-DEC-2008,151,20,20,10,35,55,60,65,20,20,10,45,75,75,75,M,921190,5,MA,Other General Government Support
+19-NOV-2009,152,0,0,5,5,0,15,15,10,5,15,0,25,45,30,M,921190,4,MA,Other General Government Support
+06-DEC-2004,153,5,0,0,0,30,30,35,5,0,5,0,45,20,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,153,10,0,5,5,15,40,20,15,10,5,5,40,25,25,M,921190,3,MA,Other General Government Support
+19-OCT-2005,154,5,10,5,15,40,15,0,10,5,0,15,30,20,0,M,921190,3,MA,Other General Government Support
+19-NOV-2009,154,5,10,10,20,50,10,0,10,10,5,25,45,20,5,M,921190,3,MA,Other General Government Support
+23-NOV-2004,155,10,0,0,15,5,10,10,5,5,0,5,5,15,5,M,921190,2,MA,Other General Government Support
+06-NOV-2008,155,20,10,5,10,5,5,15,10,10,5,10,10,15,15,M,921190,3,MA,Other General Government Support
+01-OCT-2005,156,20,15,20,25,25,25,30,15,15,25,25,15,20,15,M,921190,4,MA,Other General Government Support
+19-NOV-2009,156,15,10,20,25,25,35,45,15,15,25,30,35,20,30,M,921190,5,MA,Other General Government Support
+18-OCT-2005,157,10,0,0,0,25,35,25,10,10,5,10,10,15,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,157,10,5,0,5,35,35,40,15,10,5,10,15,20,25,M,921190,4,MA,Other General Government Support
+13-OCT-2005,158,0,5,5,10,15,25,15,0,0,0,0,15,15,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,158,10,5,0,20,25,30,10,5,0,5,0,30,10,10,M,921190,3,MA,Other General Government Support
+20-OCT-2005,159,5,5,5,5,0,15,20,10,5,5,5,0,0,10,M,921190,1,MA,Other General Government Support
+19-NOV-2009,159,10,10,5,10,0,30,35,10,5,0,5,0,20,10,M,921190,2,MA,Other General Government Support
+28-OCT-2005,160,5,5,15,5,20,35,15,5,10,15,0,5,20,5,M,921190,4,MA,Other General Government Support
+06-NOV-2008,160,5,15,10,10,15,30,10,5,10,15,5,15,20,10,M,921190,5,MA,Other General Government Support
+24-OCT-2005,161,5,10,30,50,55,40,20,0,10,20,55,55,35,20,M,921190,4,MA,Other General Government Support
+19-NOV-2009,161,5,10,40,55,65,35,25,5,10,25,60,65,25,30,M,921190,5,MA,Other General Government Support
+13-OCT-2005,162,5,5,5,25,40,60,55,0,5,10,25,45,60,60,M,921190,4,MA,Other General Government Support
+19-NOV-2009,162,0,5,5,30,40,60,55,5,5,10,25,45,65,65,M,921190,5,MA,Other General Government Support
+27-OCT-2005,163,5,0,0,0,5,25,10,5,0,0,0,0,5,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,163,5,0,0,0,5,10,0,0,0,0,0,5,5,5,M,921190,3,MA,Other General Government Support
+18-NOV-2002,164,5,0,5,5,35,35,55,0,0,5,10,10,30,45,M,921190,4,MA,Other General Government Support
+15-DEC-2009,164,5,0,5,15,45,65,70,5,5,5,15,15,40,60,M,921190,4,MA,Other General Government Support
+06-NOV-2008,165,15,15,10,10,10,5,10,15,15,10,10,5,5,5,M,921190,1,MA,Other General Government Support
+19-OCT-2005,166,10,10,25,15,5,20,40,10,10,15,5,15,10,15,M,921190,3,MA,Other General Government Support
+06-NOV-2008,166,5,5,20,10,10,20,35,10,10,10,5,15,10,5,M,921190,3,MA,Other General Government Support
+08-DEC-2004,167,0,5,0,10,40,50,25,5,5,0,0,35,50,15,M,921190,3,MA,Other General Government Support
+19-NOV-2009,167,10,10,0,15,50,50,40,5,10,5,0,55,40,20,M,921190,3,MA,Other General Government Support
+21-OCT-2005,168,10,0,20,10,15,40,40,5,15,15,15,15,15,20,M,921190,1,MA,Other General Government Support
+15-NOV-2006,168,10,10,20,20,20,25,35,15,10,25,15,20,10,25,M,921190,1,MA,Other General Government Support
+17-OCT-2005,169,0,0,5,0,0,0,5,5,10,5,5,0,0,5,M,921190,3,MA,Other General Government Support
+16-DEC-2009,169,0,0,0,0,0,10,0,0,5,0,5,0,5,0,M,921190,3,MA,Other General Government Support
+27-JUN-2002,170,5,10,25,35,30,30,10,10,15,15,10,10,10,20,M,921190,1,MA,Other General Government Support
+19-NOV-2009,170,5,10,30,45,25,10,10,10,15,20,35,15,10,0,M,921190,2,MA,Other General Government Support
+21-OCT-2005,171,20,20,40,55,65,55,70,25,35,35,60,60,40,35,M,921190,4,MA,Other General Government Support
+30-OCT-2007,171,10,20,35,50,55,60,55,20,30,45,50,55,35,25,M,921190,4,MA,Other General Government Support
+14-NOV-2005,172,10,5,5,0,0,20,10,10,0,0,0,25,5,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,172,10,0,0,0,15,20,15,10,5,0,0,25,5,0,M,921190,4,MA,Other General Government Support
+25-OCT-2005,173,0,5,5,0,0,20,15,10,0,0,5,5,15,10,M,921190,2,MA,Other General Government Support
+19-NOV-2009,173,5,5,5,5,5,15,10,5,0,0,0,5,25,20,M,921190,3,MA,Other General Government Support
+30-NOV-2004,174,0,5,0,15,35,30,35,5,15,10,0,20,20,5,M,921190,3,MA,Other General Government Support
+19-NOV-2009,174,10,15,5,25,50,35,40,15,20,15,5,30,25,30,M,921190,3,MA,Other General Government Support
+06-NOV-2008,175,10,10,5,10,25,30,30,15,5,10,10,25,15,45,M,921190,4,MA,Other General Government Support
+06-NOV-2008,176,5,10,15,5,10,10,10,5,5,10,10,10,20,10,M,921190,4,MA,Other General Government Support
+06-NOV-2008,177,5,0,0,15,55,30,20,10,0,5,20,25,35,35,M,921190,3,MA,Other General Government Support
+30-OCT-2007,178,20,15,25,30,30,35,40,10,5,5,10,5,5,10,M,921190,3,MA,Other General Government Support
+30-OCT-2007,179,5,5,10,20,30,35,20,10,5,5,15,20,10,25,M,921190,4,MA,Other General Government Support
+19-NOV-2009,180,10,10,10,5,5,15,15,5,0,0,5,5,0,0,M,921190,2,MA,Other General Government Support
+19-NOV-2009,181,5,0,5,0,5,15,10,5,0,0,5,0,15,15,M,921190,2,MA,Other General Government Support
+11-DEC-2009,182,0,0,5,10,10,15,20,0,0,0,0,0,15,0,M,921190,2,MA,Other General Government Support
+19-NOV-2009,183,5,0,5,10,10,25,10,5,10,5,5,5,10,5,M,921190,2,MA,Other General Government Support
+19-NOV-2009,184,10,5,5,0,20,30,10,10,5,5,0,5,25,15,M,921190,3,MA,Other General Government Support
+30-OCT-2007,185,5,5,30,75,70,70,70,10,5,65,90,85,75,70,M,921190,5,MA,Other General Government Support
+19-NOV-2009,187,10,5,5,0,0,15,10,10,5,0,5,5,40,25,M,921190,1,MA,Other General Government Support
+19-NOV-2009,188,10,5,0,15,25,25,25,15,5,5,10,10,10,20,M,921190,4,MA,Other General Government Support
+19-NOV-2009,189,5,0,5,5,10,20,0,5,5,0,10,15,15,5,M,921190,2,MA,Other General Government Support
+19-NOV-2009,190,10,5,5,15,5,5,0,5,0,5,0,15,10,10,M,921190,1,MA,Other General Government Support
+20-OCT-2005,191,20,25,65,60,65,70,65,20,25,45,60,55,70,55,M,921190,4,MA,Other General Government Support
+19-NOV-2009,191,30,35,70,70,70,70,65,30,30,45,65,70,65,55,M,921190,4,MA,Other General Government Support
+11-DEC-2009,192,10,10,0,5,15,15,15,5,10,5,0,10,15,25,M,921190,3,MA,Other General Government Support
+14-AUG-1995,193,0,0,5,5,10,15,5,0,5,5,5,0,10,15,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,193,5,10,15,10,10,35,30,5,5,15,5,5,10,15,M,333920,3,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,194,5,5,15,40,35,25,15,10,0,15,30,35,15,15,M,333920,1,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,194,10,10,20,40,40,25,25,10,10,20,40,35,15,20,M,333920,1,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,195,0,10,0,0,5,20,10,5,5,0,0,5,20,5,M,333920,2,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,196,15,25,50,45,40,35,20,10,15,15,40,55,40,15,M,333920,1,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,197,5,5,10,20,30,45,40,5,5,5,5,15,25,25,M,333920,4,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,198,15,20,30,45,45,30,25,15,15,30,40,40,20,5,M,333920,4,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,198,15,20,30,45,45,30,30,15,20,30,45,45,20,15,M,333920,5,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,199,15,25,20,25,30,40,20,15,15,20,20,30,30,15,M,333920,2,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,200,10,10,5,10,10,20,5,5,15,5,10,5,20,10,M,333920,1,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,203,5,10,5,10,25,20,10,10,10,10,0,20,20,5,M,333920,4,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,203,10,15,10,10,30,25,20,10,10,5,5,15,20,10,M,333920,4,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,204,5,0,5,30,40,35,40,15,10,10,20,30,25,50,M,333920,5,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,207,25,25,50,60,70,75,**,20,20,55,60,65,65,**,M,333920,4,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,207,20,25,55,65,75,80,**,20,25,55,60,65,70,**,M,333920,4,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,208,5,5,5,15,10,10,20,5,5,5,10,5,15,10,M,333920,1,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,209,5,0,0,15,40,35,0,5,0,0,25,45,25,0,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,209,5,0,0,20,40,30,0,5,0,0,30,40,30,0,M,333920,3,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,210,10,5,5,15,10,30,25,10,0,5,5,15,20,20,F,333920,2,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,211,5,0,0,5,10,10,5,0,0,0,0,5,0,10,M,333920,1,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,211,0,0,0,5,10,15,0,0,0,5,0,10,0,5,M,333920,1,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,212,10,0,5,25,25,35,20,0,0,10,30,35,40,35,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,212,10,0,10,30,30,40,25,5,0,15,35,40,40,40,M,333920,3,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,213,0,5,5,5,10,50,10,0,0,0,5,0,35,5,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,213,5,5,10,0,25,45,0,5,5,5,5,10,40,5,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,214,20,25,40,40,50,50,45,20,25,35,40,45,35,25,F,333920,4,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,215,5,5,5,35,25,15,0,0,0,0,35,20,25,10,M,333920,3,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,216,5,10,5,5,5,15,5,5,5,5,5,0,10,5,F,333920,2,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,217,10,5,5,15,15,30,20,5,0,15,0,0,25,10,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,218,5,0,0,5,5,5,15,5,5,5,15,0,15,25,M,333920,3,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,220,5,5,0,15,10,5,5,5,5,5,10,5,20,15,M,333920,1,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,221,5,0,5,10,5,15,5,0,0,5,5,5,5,0,M,333920,2,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,221,5,0,5,10,10,20,10,5,0,0,5,10,5,0,M,333920,2,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,222,0,5,5,15,25,25,25,0,0,0,15,30,20,15,M,333920,4,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,222,0,5,5,15,30,45,40,0,5,0,15,30,30,25,M,333920,4,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,223,10,10,15,35,55,65,60,5,5,10,5,25,50,65,M,333920,5,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,224,0,5,5,5,0,20,15,5,5,0,10,15,25,20,M,333920,2,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,224,5,10,15,10,30,20,15,5,10,0,15,25,25,20,M,333920,2,MA,Material Handling Equipment Manufacturing
+14-JUL-1994,226,0,0,10,15,10,10,0,20,10,25,25,10,15,15,M,333920,1,MA,Material Handling Equipment Manufacturing
+06-NOV-1992,227,0,0,0,0,5,10,20,0,0,0,0,0,15,15,M,333920,1,MA,Material Handling Equipment Manufacturing
+14-JUL-1994,228,0,0,5,10,0,20,5,10,10,0,5,5,10,15,F,333920,2,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,228,5,5,5,5,5,20,10,20,10,25,25,30,30,30,F,333920,2,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,229,5,**,**,**,**,**,**,10,**,**,**,**,**,**,M,333920,5,MA,Material Handling Equipment Manufacturing
+06-NOV-1992,230,35,25,35,70,65,40,45,30,30,25,45,60,55,45,M,333920,3,MA,Material Handling Equipment Manufacturing
+25-SEP-1996,231,5,5,5,25,30,30,20,15,5,10,20,30,30,20,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,232,15,5,10,5,10,25,10,10,5,5,0,10,15,5,M,333920,3,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,233,5,5,0,10,15,15,5,5,5,5,5,15,10,5,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,233,5,10,0,15,20,15,0,5,5,5,10,20,15,5,M,333920,3,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,234,5,10,5,10,15,15,0,5,5,10,5,10,25,5,M,333920,2,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,235,10,5,5,5,0,0,0,10,5,0,10,10,20,5,M,333920,2,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,236,0,0,5,0,5,15,5,10,5,5,5,0,5,0,M,333920,1,MA,Material Handling Equipment Manufacturing
+23-SEP-1997,238,10,10,10,10,10,10,5,10,10,20,5,15,15,10,M,333920,2,MA,Material Handling Equipment Manufacturing
+14-AUG-1995,239,15,20,15,15,10,15,10,20,20,20,20,10,20,5,M,333920,1,MA,Material Handling Equipment Manufacturing
+06-NOV-1992,240,15,10,15,20,35,30,55,10,15,10,25,30,35,45,M,333920,5,MA,Material Handling Equipment Manufacturing
+04-OCT-2005,241,10,15,30,35,50,40,55,10,15,30,40,55,60,70,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,241,15,10,15,25,50,25,50,10,10,20,35,55,55,60,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,243,20,15,35,30,55,30,10,10,10,15,15,45,25,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,244,10,5,5,0,10,10,0,5,0,5,5,10,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,245,0,10,15,10,25,20,0,10,15,5,0,10,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,246,10,15,10,5,0,5,15,10,10,5,0,0,15,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,247,10,5,5,5,10,25,15,10,5,0,5,10,15,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,248,15,15,15,30,20,20,10,10,15,15,30,20,10,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,249,5,5,0,10,10,15,0,10,5,5,5,10,25,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,250,15,20,15,30,10,25,30,15,15,5,15,15,15,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,251,15,15,15,15,25,55,60,10,15,10,10,15,30,30,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,252,10,20,35,60,60,40,15,15,20,35,50,30,20,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,252,15,15,35,60,65,30,15,20,20,35,50,30,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,253,5,5,0,0,5,15,5,5,0,5,0,5,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,253,5,0,5,0,0,0,0,0,5,0,0,5,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2007,254,15,10,5,10,35,20,25,10,5,10,0,20,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2007,255,10,5,0,10,15,5,5,10,5,5,15,20,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,257,5,0,0,5,5,20,10,5,5,0,0,5,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,258,10,5,10,10,5,10,5,15,10,5,0,10,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,259,15,10,5,5,20,45,10,10,10,10,10,15,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,260,15,10,15,30,30,15,0,15,15,10,20,25,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,261,10,20,15,35,35,20,0,10,20,10,30,25,10,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,262,10,5,0,0,0,20,0,5,0,0,0,0,0,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+02-NOV-2009,263,10,10,20,35,45,40,20,15,15,25,25,45,30,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,265,10,5,0,5,0,0,0,10,5,5,10,5,0,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,266,15,20,15,35,55,50,55,5,15,25,25,50,40,45,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,267,25,15,15,10,5,15,25,20,25,20,30,30,25,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,270,5,5,0,25,45,25,0,10,5,5,10,30,15,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,271,10,20,25,30,50,60,55,20,20,10,10,40,30,20,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,272,15,10,10,5,5,15,0,15,5,0,0,10,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,273,15,5,10,5,10,15,0,15,5,15,10,5,10,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,274,10,15,10,0,10,5,5,10,5,0,0,5,25,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+28-SEP-1990,275,20,20,15,25,20,25,20,25,15,10,10,10,25,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-1994,275,10,10,5,5,5,15,25,10,10,5,5,10,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+01-NOV-2000,275,5,0,0,0,5,0,10,10,5,5,5,5,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,276,10,5,0,35,45,15,35,10,10,0,10,25,20,55,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,277,15,15,30,35,45,30,15,20,25,25,20,20,20,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,278,5,5,5,15,25,30,5,5,5,5,35,25,30,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+11-OCT-2000,278,10,10,10,50,50,40,20,15,5,25,45,50,50,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,278,5,10,10,45,40,40,15,5,10,35,50,55,30,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,278,10,10,15,50,50,25,15,10,10,45,45,45,45,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+20-MAR-1995,279,5,0,0,0,0,30,20,10,0,0,0,5,25,55,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+18-SEP-2000,279,10,15,10,10,15,20,30,10,15,10,10,25,30,40,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,279,0,5,5,5,15,30,25,10,10,0,10,40,25,45,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,279,10,5,0,5,15,25,15,15,10,10,5,20,35,30,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,280,15,10,15,10,15,20,10,10,0,15,15,10,5,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+30-OCT-2000,281,20,15,20,15,10,15,15,20,15,15,10,5,25,35,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,281,35,25,20,25,25,40,35,30,20,20,15,15,40,25,F,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2007,283,15,10,15,20,25,15,40,10,15,5,5,5,25,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+20-SEP-1994,284,15,15,15,15,30,20,30,15,15,20,15,30,25,30,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+30-OCT-2000,284,10,5,20,15,25,30,50,20,10,15,20,35,45,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,284,10,10,20,15,30,45,60,20,10,20,25,30,60,50,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1995,285,10,5,10,10,25,25,5,5,5,5,5,5,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-2000,285,5,5,10,15,25,35,20,10,5,5,5,5,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,285,5,5,10,20,35,30,15,5,5,5,5,20,10,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,285,5,5,5,10,30,35,15,5,5,5,5,10,15,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,286,10,10,10,10,10,15,20,15,15,20,20,25,25,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,286,5,10,5,5,10,10,20,10,10,20,10,20,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,287,5,10,10,0,10,0,5,5,10,5,10,5,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,288,20,10,15,15,25,15,25,10,10,20,10,20,5,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,289,0,5,0,20,35,30,0,0,0,0,30,45,20,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,290,5,5,5,15,0,10,15,5,5,5,5,5,10,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,291,5,5,15,15,15,10,5,10,10,15,15,25,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,291,10,5,25,35,35,15,10,15,5,10,25,30,25,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,292,10,10,10,10,15,20,15,15,15,10,20,10,35,20,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,293,15,15,10,10,15,30,60,15,15,20,15,25,30,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,294,20,25,25,10,20,25,15,10,5,15,15,10,25,10,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,296,15,30,55,55,55,65,50,20,30,45,55,55,60,30,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,297,15,25,35,20,35,75,85,20,25,20,30,30,55,60,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,298,25,25,40,35,30,45,55,20,25,25,25,35,30,60,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,298,35,25,25,30,20,45,65,20,20,20,15,30,30,55,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,299,20,20,15,20,15,15,25,25,25,30,10,10,15,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,300,15,20,25,25,30,25,10,25,25,30,30,35,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-SEP-2004,301,15,5,10,15,10,5,0,15,5,15,5,10,20,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,301,15,10,10,10,10,0,0,0,0,10,5,15,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,302,15,10,15,15,20,25,10,5,10,10,15,20,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,303,5,0,5,10,15,5,5,5,0,5,5,5,15,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,304,15,10,10,25,30,45,25,10,15,5,25,35,35,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+16-MAR-2000,305,5,0,0,0,5,15,5,0,0,5,0,5,5,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,305,5,5,10,15,15,10,0,10,5,10,10,15,0,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,305,10,5,5,5,10,5,20,15,10,10,15,5,20,40,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,306,10,15,10,45,70,45,20,10,10,15,35,55,45,5,F,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,307,10,5,5,0,5,0,5,5,5,5,5,5,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1997,307,15,10,10,0,5,5,10,10,10,5,0,5,20,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,307,5,5,5,0,10,10,10,5,5,0,0,0,5,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,307,5,5,5,0,10,5,20,15,5,0,0,0,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,308,10,5,25,20,15,20,5,10,0,15,15,15,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,309,5,15,10,25,45,25,10,10,10,0,5,35,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,310,10,20,15,45,50,20,0,15,20,10,40,50,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,310,20,10,10,50,35,25,10,10,15,5,35,55,20,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,311,10,5,10,20,25,35,10,10,10,5,20,15,25,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,312,20,10,10,10,10,10,25,10,10,10,15,10,10,25,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,313,10,10,10,5,10,0,0,10,10,5,5,5,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,314,10,10,10,20,25,15,0,10,15,5,30,15,15,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,315,5,10,5,15,10,5,0,10,5,0,5,5,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,316,15,10,10,15,25,30,15,10,5,10,5,15,10,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,317,10,5,0,5,5,10,15,5,10,5,0,0,0,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,318,20,15,15,25,10,25,10,20,25,20,25,35,25,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,320,0,5,20,20,15,15,5,10,5,15,15,5,15,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,321,10,10,10,10,35,20,10,10,10,10,30,30,15,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,321,10,10,0,0,30,15,20,10,10,5,30,30,15,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,322,10,20,15,10,35,35,25,15,25,20,20,40,35,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,323,5,0,0,5,15,15,0,15,5,10,20,20,15,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2007,324,10,10,5,10,10,15,20,15,15,5,5,10,25,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,325,10,15,5,10,25,45,25,10,15,5,20,30,30,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,326,10,10,20,15,10,20,25,10,15,15,30,20,10,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,327,10,0,0,0,5,10,0,5,0,0,0,0,15,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+10-SEP-2004,328,10,5,15,15,25,15,25,25,15,15,10,15,20,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2007,328,10,5,0,10,15,10,20,10,0,15,15,15,10,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,329,20,10,20,15,35,65,50,10,10,15,15,55,55,40,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,329,20,10,15,15,45,45,30,15,10,10,10,55,45,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+28-MAR-1995,331,0,0,0,0,0,25,20,10,5,0,0,0,20,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+22-FEB-1995,332,5,5,5,5,15,5,5,5,10,5,5,10,15,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+10-OCT-1997,333,5,0,0,0,5,10,5,10,10,0,5,10,15,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,334,10,15,15,25,30,25,20,5,15,15,20,30,0,10,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,335,5,10,50,65,60,75,60,5,10,15,60,55,70,60,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-JAN-1997,339,10,0,0,30,10,0,0,10,5,15,35,25,10,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+28-JUN-1990,342,20,10,10,5,20,10,10,10,10,5,5,10,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-JAN-2000,342,15,5,5,5,5,10,5,20,10,5,0,0,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+22-JUL-1999,343,20,10,10,10,20,30,45,15,5,5,10,15,30,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,343,15,20,30,30,45,50,35,15,20,20,20,30,45,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,343,15,15,30,35,50,55,50,15,15,20,30,50,45,35,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+28-JUN-1990,344,10,10,10,5,10,10,15,10,5,5,5,5,10,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-1995,344,0,5,5,0,10,5,5,5,5,5,0,0,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-JAN-2000,344,15,10,5,5,15,10,5,15,5,5,5,0,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+19-OCT-1994,345,15,20,20,45,45,40,20,10,15,15,25,35,50,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1997,346,5,10,0,0,5,20,5,5,5,5,5,10,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-JAN-1997,347,5,5,5,5,5,10,0,5,5,5,10,0,15,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-JUL-1999,348,10,10,5,15,25,25,10,15,10,10,10,20,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,349,30,25,25,35,55,45,55,20,25,25,45,60,55,45,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+19-AUG-1997,350,10,15,5,20,35,35,0,15,10,5,5,5,20,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+08-NOV-1999,351,0,0,0,0,5,5,5,10,10,0,5,10,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+12-MAR-2001,351,5,0,0,0,5,10,5,5,10,0,0,5,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,352,10,15,20,15,0,20,0,10,20,15,20,10,25,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-NOV-2000,354,10,10,10,20,5,40,45,5,10,20,20,25,40,70,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,354,15,20,25,25,20,40,65,15,10,20,15,15,20,55,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+01-DEC-1999,356,0,0,10,0,5,25,20,15,5,5,10,10,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-MAR-2001,356,0,0,5,0,5,15,15,5,0,5,5,10,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2000,357,10,5,15,15,20,50,30,5,10,20,20,25,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,357,0,0,15,20,35,55,10,10,10,15,25,25,30,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,357,10,5,10,20,25,35,15,10,5,10,15,20,20,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+03-APR-1998,359,0,0,0,0,0,0,0,5,5,0,10,0,0,0,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+01-DEC-1994,361,5,5,5,0,0,10,5,5,5,5,5,15,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-FEB-2001,362,15,20,20,30,30,50,40,25,25,20,30,25,40,35,F,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-SEP-1990,365,20,10,10,10,15,30,25,20,10,10,5,10,5,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-SEP-1995,365,10,5,15,15,20,15,20,5,5,5,5,0,20,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-2000,365,5,15,15,15,15,45,25,5,5,5,0,5,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,365,5,5,10,15,20,40,10,0,10,5,5,10,35,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+03-APR-1998,366,15,10,5,5,10,20,30,25,20,15,15,15,20,35,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,367,30,25,20,25,25,25,25,25,20,20,25,25,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,369,10,10,15,20,20,35,25,5,10,5,15,10,15,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+20-FEB-1995,370,5,5,0,5,5,15,0,5,5,0,0,5,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1997,370,5,10,5,10,10,10,0,15,10,5,0,5,5,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+06-APR-1998,371,10,10,10,10,5,15,15,10,10,10,5,10,15,15,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,372,45,50,45,50,60,45,40,45,60,55,55,70,60,45,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,373,0,5,5,5,10,10,5,10,10,10,25,40,40,40,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,374,40,40,35,45,40,35,60,40,30,35,40,35,40,60,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-1994,375,10,10,20,15,25,35,5,15,15,20,10,25,35,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,376,5,10,30,30,25,35,35,10,10,25,20,20,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-SEP-1995,378,5,5,5,25,45,55,55,5,0,10,25,55,85,70,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1996,378,5,5,10,30,50,55,55,5,10,15,35,55,80,70,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,378,10,30,55,60,65,70,75,10,25,50,60,60,90,75,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+21-FEB-1995,379,45,45,40,45,40,55,45,50,55,50,50,50,40,40,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+31-AUG-2001,380,10,15,10,20,15,10,0,10,10,15,15,20,25,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,381,10,5,5,0,0,10,5,10,10,5,0,0,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-JUN-1995,382,20,20,10,15,5,25,5,10,20,25,15,5,25,5,F,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1994,385,5,0,5,25,20,40,15,5,5,0,10,15,20,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+08-DEC-2000,385,10,5,10,25,35,20,15,15,10,5,10,15,15,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,385,10,5,15,35,45,35,25,25,15,15,15,25,35,25,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,385,15,10,15,30,40,40,20,20,10,10,10,15,25,20,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+15-SEP-1998,386,15,20,25,40,35,45,50,15,20,20,20,50,60,50,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,387,20,15,15,0,5,15,10,20,10,15,20,10,20,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+29-JUN-1992,388,20,10,5,10,10,5,5,15,10,10,5,5,10,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,388,10,5,5,5,0,10,20,10,5,10,0,10,0,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+21-JAN-1997,389,80,75,70,75,75,80,**,70,75,70,90,90,85,**,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+20-AUG-1996,390,5,5,10,20,10,25,5,10,10,10,20,15,10,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,392,15,15,25,15,15,20,15,15,15,15,15,5,25,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-2001,393,15,10,5,5,10,10,15,15,15,5,10,10,15,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+16-MAR-1990,394,15,5,15,5,10,25,25,15,10,15,10,15,30,40,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1995,394,10,5,10,5,15,25,25,10,10,15,10,15,35,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-2000,394,10,5,20,10,10,30,30,10,10,20,15,20,30,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,394,15,10,25,15,20,35,40,10,10,25,20,25,35,45,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,394,20,10,25,15,20,40,35,15,10,15,15,30,35,60,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,396,10,5,5,5,25,20,5,5,0,0,10,10,25,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+08-DEC-2000,397,5,5,5,25,35,15,0,5,5,0,5,30,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,397,5,5,5,0,0,20,5,10,0,0,10,0,25,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,398,5,0,5,10,0,20,20,15,5,5,0,10,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2000,399,15,15,15,15,15,25,25,15,15,20,10,15,40,35,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,399,15,25,25,25,15,40,30,15,15,20,15,15,45,40,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,399,10,10,10,10,10,15,15,10,10,5,0,10,35,20,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,400,10,5,0,10,10,30,15,5,5,15,15,20,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,401,10,5,0,5,35,30,0,10,5,5,5,10,20,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2000,402,10,10,15,10,0,15,0,10,10,10,5,0,15,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,403,20,15,10,10,20,35,5,20,15,10,10,15,25,15,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-OCT-1997,404,0,0,0,0,0,5,10,5,0,10,5,5,20,40,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-SEP-1990,405,25,20,25,15,10,20,35,25,15,15,15,20,20,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-JUN-1992,405,15,20,15,15,10,30,45,15,10,10,5,20,25,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1995,406,10,5,15,5,5,20,5,5,10,10,0,20,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,407,5,5,0,10,15,15,5,10,0,5,10,15,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,408,5,5,5,10,5,25,10,10,10,5,5,20,25,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-AUG-1998,408,5,5,0,10,5,15,15,5,5,5,5,20,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1997,409,5,5,15,20,10,30,10,5,5,15,10,15,25,15,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+16-SEP-1998,410,10,5,5,5,10,25,5,15,5,5,5,5,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-FEB-2000,411,10,5,0,15,35,15,10,15,5,5,15,25,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+31-AUG-2001,411,5,5,15,25,40,15,5,5,10,15,20,30,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1994,412,5,5,10,10,5,10,5,10,5,5,5,10,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,413,25,20,25,10,20,40,30,0,10,20,10,15,25,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,413,20,20,20,10,5,50,30,10,10,15,15,10,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,414,30,25,20,15,5,10,5,15,10,10,15,5,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,414,25,20,15,5,10,0,0,15,5,5,0,10,0,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,415,5,0,5,0,0,0,0,5,0,10,0,5,0,0,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+11-DEC-2000,416,15,10,5,5,25,20,10,15,10,5,5,5,0,5,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,417,10,15,5,5,15,40,45,10,5,10,10,20,30,50,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,417,10,10,0,10,10,45,35,15,10,15,20,30,55,65,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+08-OCT-1999,418,15,15,10,10,30,20,15,10,10,10,10,15,15,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+07-APR-1998,419,0,0,5,20,10,5,20,10,10,10,15,15,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,420,5,0,10,15,10,30,35,5,5,20,20,10,35,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,420,10,5,10,15,5,20,15,5,10,25,20,10,35,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1998,421,5,5,5,10,10,25,15,15,5,5,15,20,20,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+07-OCT-1999,422,5,10,15,25,40,40,10,10,15,25,25,40,15,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2003,423,15,5,10,5,5,10,0,15,15,5,0,0,15,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,424,5,10,10,15,20,5,0,10,10,5,10,5,10,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1997,424,10,10,10,10,5,10,10,10,5,5,10,10,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+10-SEP-2004,424,10,10,15,15,15,10,10,10,5,5,5,10,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-APR-1998,425,0,0,0,0,0,0,0,0,5,15,30,35,20,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,426,10,10,15,25,30,35,40,5,5,0,0,5,10,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,426,5,5,0,15,15,10,15,5,5,0,5,5,10,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-1995,427,15,5,25,55,65,65,45,10,5,10,35,45,45,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1998,427,15,5,35,65,75,70,65,15,5,5,45,45,60,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,428,5,10,25,30,40,30,35,10,15,25,30,35,55,40,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,428,10,15,30,35,40,45,50,10,10,30,35,35,55,50,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-2000,429,15,15,10,15,25,35,30,5,10,15,10,15,10,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,429,10,15,15,15,35,20,0,10,10,5,5,10,10,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+08-APR-1998,430,5,0,0,0,0,15,0,15,10,5,5,5,5,0,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-1999,431,15,20,20,20,25,55,30,15,20,25,10,25,40,35,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,431,15,20,15,15,20,50,25,15,20,25,10,35,50,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,432,15,20,10,20,35,30,5,5,10,0,40,40,35,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-APR-1998,433,0,0,0,0,0,0,0,10,5,0,0,0,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-JAN-2001,434,5,5,0,0,0,5,0,5,5,5,5,5,20,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+17-MAR-1998,435,5,5,15,15,40,10,20,5,5,20,10,10,40,45,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+26-SEP-1996,436,5,5,5,15,15,15,0,5,10,10,20,25,15,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,438,5,0,0,0,5,5,0,0,0,0,5,5,0,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-OCT-1995,439,10,0,15,5,5,15,0,5,15,15,20,20,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+19-SEP-1996,439,10,0,15,10,20,5,5,0,10,20,20,20,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1996,441,10,10,15,15,10,0,5,10,10,15,15,10,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+06-JUN-1997,442,0,0,15,0,15,30,35,5,0,10,10,15,20,25,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1994,443,10,10,5,10,15,10,0,5,10,5,15,35,20,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,444,5,5,10,15,15,25,20,10,15,20,30,40,30,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+17-MAR-1998,444,5,5,15,30,20,20,15,5,15,20,25,35,25,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1995,445,20,10,15,20,10,10,0,10,5,10,15,10,15,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,446,15,10,5,20,20,35,20,10,10,5,25,35,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,446,20,10,10,20,20,25,30,15,15,10,25,30,10,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+20-JUL-1999,447,5,0,0,5,10,5,0,0,5,5,0,0,0,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+30-NOV-1994,448,15,5,0,10,5,30,5,5,10,5,5,15,20,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,449,15,10,15,0,10,0,5,15,15,15,5,0,0,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-JUL-1999,452,10,5,10,5,0,15,10,10,5,10,10,0,5,0,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-APR-1998,453,0,0,0,0,0,10,0,5,0,0,0,0,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-AUG-2000,455,10,10,15,40,35,40,10,10,10,10,25,35,40,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+08-SEP-2004,455,10,15,25,55,55,30,5,10,15,15,45,40,35,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-APR-1998,456,5,15,10,10,5,25,10,5,5,0,5,25,15,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,458,10,0,10,10,5,10,15,10,5,5,5,15,0,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,458,10,5,0,0,0,10,20,10,5,15,10,10,0,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-APR-1998,459,15,15,15,10,20,15,0,20,20,20,20,25,10,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-1998,460,10,10,5,5,15,15,10,5,0,0,5,15,10,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,460,5,10,10,5,20,15,15,0,0,0,5,20,15,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,460,5,5,0,5,15,10,5,5,10,0,0,15,10,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2002,461,15,15,5,10,40,45,20,10,15,10,25,30,45,25,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1997,462,10,5,10,10,10,10,15,10,5,5,10,0,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-DEC-2000,463,10,5,10,10,20,10,10,5,5,10,10,5,20,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-SEP-1995,464,0,0,0,5,25,15,30,5,5,0,0,25,35,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+22-AUG-1997,464,10,5,5,5,15,20,20,10,10,15,5,25,20,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-SEP-1995,465,10,5,5,15,5,5,10,5,5,10,15,5,15,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+19-OCT-1998,465,5,0,0,5,0,5,0,5,0,5,5,0,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-AUG-2001,465,5,5,5,15,5,5,0,5,0,5,10,5,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2000,466,20,10,15,20,15,35,25,5,15,15,20,25,40,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,466,0,0,25,30,35,30,25,0,15,20,35,35,40,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,466,15,15,20,25,30,40,40,10,10,15,35,35,40,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+28-SEP-1990,467,15,10,10,10,10,10,15,15,10,10,10,10,10,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1995,467,15,10,10,10,5,10,0,10,5,10,0,5,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+20-AUG-1996,467,10,5,10,20,20,10,15,10,5,5,5,15,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+10-MAR-1998,468,60,60,80,85,90,90,**,25,35,50,50,60,80,**,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,469,5,15,5,10,30,20,25,5,15,10,5,15,15,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,469,10,5,10,10,20,25,45,10,15,5,5,20,25,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,470,10,15,15,20,45,30,25,10,5,15,15,15,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,470,10,10,10,25,25,25,20,5,5,10,5,10,5,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-APR-1998,471,5,10,15,10,10,20,10,5,15,20,10,10,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,472,35,45,65,70,75,65,50,35,35,35,60,75,70,55,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+04-FEB-2000,474,15,10,10,20,25,20,5,20,10,15,10,15,35,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+16-MAR-1995,476,0,10,15,15,10,20,20,5,10,20,15,15,20,0,F,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,477,5,5,10,5,5,15,0,5,10,10,10,10,10,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,478,5,15,15,5,20,15,10,10,15,15,10,0,15,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,479,25,20,20,20,30,30,10,10,15,10,5,15,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+28-NOV-1994,480,5,0,0,0,5,0,0,10,5,0,0,0,0,0,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-SEP-1994,481,15,10,15,15,15,25,15,15,15,15,20,15,30,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-AUG-1997,482,15,15,10,15,15,25,15,20,10,5,10,5,30,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-OCT-1999,483,10,10,15,10,10,25,15,10,10,15,15,20,30,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,484,5,0,10,0,10,20,10,15,10,10,0,5,15,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,484,15,15,10,0,20,30,5,10,10,5,5,10,25,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,485,5,0,0,0,0,0,5,5,5,0,5,5,30,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,485,15,20,10,10,15,20,10,0,0,10,15,15,25,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,485,25,15,10,10,5,5,5,15,20,10,15,5,25,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,486,5,0,5,5,15,5,5,10,0,10,5,5,25,5,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,487,0,5,10,10,10,20,10,5,10,20,10,15,5,20,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2003,488,10,5,5,10,15,20,15,15,10,5,15,25,35,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,489,15,15,15,30,10,20,20,20,20,10,15,15,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,489,20,10,10,20,20,25,20,20,10,10,25,25,15,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,490,5,15,25,25,30,25,25,15,15,25,20,30,30,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,490,20,15,25,25,35,30,40,25,15,25,15,30,25,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,491,5,10,10,40,50,20,35,10,20,10,25,60,40,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,492,10,0,10,5,10,15,5,10,5,10,10,10,20,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,493,0,10,25,5,0,15,5,15,10,20,15,15,20,25,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,494,15,15,15,20,20,25,5,10,10,10,10,15,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-FEB-2000,495,10,0,0,5,15,25,10,15,5,5,5,15,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-JUN-1995,496,20,10,10,5,20,25,10,15,15,10,15,10,15,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1997,497,0,0,5,10,5,5,5,5,0,10,10,10,5,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,498,5,10,10,25,20,20,25,15,5,5,20,25,15,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,499,5,0,0,5,10,5,0,0,0,0,0,10,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2007,499,0,0,0,0,0,0,0,0,0,0,0,5,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+19-JUL-1999,500,10,5,5,40,35,20,15,10,5,5,30,30,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-JAN-2001,501,15,15,15,10,15,15,5,20,15,20,15,15,20,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,501,25,25,20,20,20,20,35,15,20,20,10,20,35,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,502,5,10,10,10,10,20,0,10,5,10,10,10,15,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1997,502,10,5,10,10,10,10,0,10,5,5,10,5,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-SEP-2000,503,5,5,0,0,0,35,0,5,5,0,5,0,25,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,504,20,10,10,20,40,45,25,20,15,15,30,40,45,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,507,10,10,0,5,15,10,0,5,10,5,5,5,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-DEC-2000,508,5,0,0,5,5,20,15,10,0,0,5,10,15,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,508,10,5,0,10,20,10,5,10,0,0,5,5,15,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-1995,510,10,10,10,5,20,10,5,5,15,5,30,40,25,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1996,510,10,10,10,5,25,25,15,5,15,5,30,40,25,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-1994,511,5,5,5,15,5,25,15,5,5,5,20,5,25,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1996,511,0,0,5,15,0,25,10,5,5,0,15,5,20,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,512,10,10,15,35,25,40,5,20,20,10,20,15,10,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-OCT-1999,513,20,10,15,15,20,45,30,10,10,5,15,15,30,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,513,15,15,15,15,15,30,10,5,10,10,15,15,35,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,513,10,10,10,10,15,15,5,15,10,10,15,15,30,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+21-FEB-1995,514,5,0,0,0,0,0,0,5,5,0,5,0,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1998,514,5,5,0,0,0,0,0,5,0,0,5,0,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-1995,515,10,15,10,20,10,30,10,15,15,5,5,5,25,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,516,0,0,10,15,15,15,0,5,5,10,15,10,10,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,517,5,10,10,15,15,25,15,10,10,15,20,25,25,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,517,10,10,5,20,20,20,15,15,10,15,25,25,30,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-DEC-1994,518,5,5,0,5,5,40,15,15,5,5,5,5,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1997,519,5,5,5,15,25,25,20,5,0,5,10,20,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1995,520,15,15,25,20,5,30,10,15,15,25,5,5,15,5,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+12-AUG-1996,520,5,10,25,15,5,30,15,15,10,25,5,5,25,20,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-1995,521,10,10,10,10,5,10,5,10,15,10,10,5,25,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+20-AUG-1997,522,10,15,20,20,15,25,10,10,15,25,5,15,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,524,5,5,0,0,0,0,0,10,0,0,0,0,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,525,15,25,20,25,35,30,15,15,25,25,20,35,20,30,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+31-AUG-1998,526,5,0,0,0,15,0,0,5,0,0,0,10,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-APR-1998,527,30,25,20,20,30,30,50,10,15,5,15,20,20,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+15-OCT-1998,528,15,15,15,25,20,25,20,15,20,25,25,30,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,529,10,10,10,10,20,15,30,10,10,5,10,15,15,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-JUL-1995,530,15,20,15,25,30,25,15,30,25,25,20,30,20,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1996,530,15,5,5,20,15,20,15,25,25,20,15,25,20,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+06-DEC-2000,531,20,20,25,45,60,65,65,25,20,25,35,40,50,70,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,531,20,20,30,45,55,55,75,15,20,30,35,55,60,75,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,531,25,15,35,45,65,55,75,20,20,30,30,40,60,90,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-1995,532,0,0,5,0,0,5,0,0,0,5,0,0,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1998,532,5,5,15,10,0,10,0,5,5,5,5,0,5,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+15-APR-1998,533,5,10,5,10,5,35,0,5,10,15,10,10,15,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,534,10,0,15,20,15,25,15,5,0,5,15,5,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,534,10,5,10,15,10,15,5,10,10,10,10,20,15,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1997,535,10,5,0,15,15,35,5,5,5,5,10,5,35,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,536,15,10,25,50,60,85,70,5,10,25,40,55,65,75,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,536,20,10,25,55,55,90,75,15,15,20,45,50,65,85,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,537,15,5,5,5,20,30,20,5,5,10,20,25,40,25,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,537,15,5,5,0,10,25,25,10,5,5,20,15,50,30,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+27-OCT-1997,540,0,0,0,0,0,5,0,5,0,0,0,5,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,540,0,5,45,5,0,20,20,5,5,15,20,10,25,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+20-AUG-1998,541,10,10,10,10,15,20,10,15,10,10,15,20,20,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-SEP-1990,542,20,15,10,10,10,25,10,25,20,15,10,10,10,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-DEC-1994,542,10,5,5,5,15,5,15,5,5,0,5,15,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-APR-1998,544,10,10,5,0,0,10,0,10,10,5,10,5,25,10,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+30-NOV-1994,547,15,5,30,20,15,35,5,15,20,30,30,15,35,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,548,15,10,5,10,5,25,40,15,10,15,20,10,25,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,548,15,10,5,10,10,15,15,5,10,10,10,5,20,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+08-OCT-1999,549,0,0,5,5,5,15,25,10,0,0,0,5,5,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-JAN-2001,549,0,0,5,10,5,10,15,10,0,0,0,5,15,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2003,551,5,5,15,20,10,35,45,5,10,10,10,5,10,30,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1994,552,0,0,0,10,30,25,20,0,0,0,10,35,15,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-2000,553,15,10,10,20,15,20,25,15,15,10,15,25,30,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,553,15,10,5,10,15,30,10,15,15,15,0,20,30,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,554,30,20,15,10,5,35,25,25,20,25,20,20,30,30,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,554,20,15,15,10,10,20,25,10,20,20,10,20,20,10,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-AUG-1996,555,5,5,15,5,5,10,5,10,5,15,10,5,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2008,555,10,5,5,0,5,25,0,5,10,10,5,0,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-NOV-1994,557,5,5,10,15,15,20,25,5,5,15,15,15,20,20,F,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,558,5,5,0,15,40,20,10,5,0,5,25,30,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-2006,558,10,5,0,20,35,15,10,5,0,0,25,20,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-DEC-2000,559,5,10,5,0,0,30,25,5,5,5,5,10,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,559,5,15,5,0,5,20,15,10,15,5,5,10,30,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+10-SEP-1998,563,5,0,0,15,0,5,5,0,10,0,10,5,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+07-FEB-1997,564,0,5,0,0,0,0,0,5,0,0,0,0,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,565,5,5,5,15,25,5,5,5,5,5,5,10,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-SEP-1995,566,10,0,30,40,45,50,55,5,5,30,45,55,50,50,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1997,566,15,10,40,45,45,60,55,15,5,35,50,60,50,70,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,566,5,0,50,55,60,60,60,10,5,35,45,45,50,75,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+20-MAR-1995,567,10,5,5,5,5,5,0,10,5,15,5,5,10,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-1999,567,5,10,5,0,5,5,0,0,5,15,0,0,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,567,15,5,5,0,0,0,0,15,5,0,0,10,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,567,10,5,5,0,0,10,0,10,5,10,0,5,5,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1995,568,5,10,5,5,10,10,5,20,10,15,20,10,20,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-2000,568,10,10,10,5,15,15,10,10,10,15,20,20,25,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,568,25,15,15,15,25,25,30,15,20,15,25,30,30,35,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,568,20,10,15,15,20,25,30,20,10,15,20,20,25,40,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,569,10,5,5,5,5,10,5,10,5,10,15,5,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,570,5,0,0,0,10,0,0,5,0,5,5,15,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1996,571,5,5,10,15,10,20,10,25,30,35,25,20,40,40,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,572,5,10,15,15,15,15,20,5,5,5,10,10,10,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,573,15,5,0,5,35,20,0,15,5,5,15,25,30,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-1998,573,10,5,5,15,40,20,0,10,0,0,10,30,30,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+03-DEC-2009,574,5,10,5,10,15,15,0,15,10,10,5,0,15,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-2000,576,25,15,15,20,20,45,60,20,20,20,20,25,45,40,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+19-OCT-1998,577,10,5,10,10,45,5,0,10,10,10,10,15,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,579,10,15,20,10,15,10,10,15,10,10,10,15,10,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2007,579,15,10,15,10,15,5,5,20,10,10,10,15,10,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+21-JUN-1995,581,10,5,15,10,15,20,20,5,5,10,5,5,5,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1995,582,10,0,5,10,10,5,0,10,0,5,10,5,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2000,583,5,5,5,5,0,5,0,5,10,10,0,5,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1994,585,10,5,5,15,15,10,20,10,0,0,10,5,20,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,586,20,20,25,15,20,25,15,25,20,25,15,15,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,587,25,25,25,20,25,30,30,25,25,20,15,15,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-JUL-1999,588,10,10,10,5,15,10,0,10,15,10,10,10,30,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-OCT-1997,589,15,10,15,10,10,10,15,15,10,15,20,40,20,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2003,589,30,25,25,25,35,20,30,30,30,25,45,55,25,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+20-APR-1998,590,5,0,5,15,20,30,10,5,0,0,5,10,35,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+20-AUG-1998,591,10,5,0,5,15,15,15,15,5,5,20,25,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,594,0,0,5,5,0,10,15,0,0,5,0,0,10,25,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1994,595,10,15,5,15,35,45,35,10,15,5,15,35,45,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-MAR-1990,596,20,15,10,10,30,30,40,25,25,20,15,35,35,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1995,596,20,20,20,15,35,30,40,20,20,20,25,25,40,40,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-AUG-2000,596,10,5,5,5,30,25,35,10,10,10,10,25,40,55,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,596,5,5,10,10,25,40,40,5,5,5,20,20,35,75,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2008,596,10,5,10,10,20,40,50,10,10,15,15,30,35,80,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,598,5,0,5,10,10,10,15,5,5,0,15,25,15,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,599,5,5,10,10,15,5,5,15,5,10,10,5,20,0,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1997,601,5,0,5,15,15,15,0,10,0,10,10,15,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2003,602,10,10,15,20,10,20,15,10,5,10,20,30,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,604,0,0,5,5,0,5,20,0,5,10,5,0,15,20,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,605,5,0,10,10,30,25,15,15,5,5,10,15,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,606,10,15,25,40,55,70,75,5,10,25,55,65,90,75,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+08-SEP-2004,607,15,25,20,15,20,35,25,15,15,20,20,15,25,45,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,608,15,10,10,15,15,25,20,15,15,15,15,15,30,25,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,608,20,10,10,15,10,10,10,20,20,10,15,20,15,30,F,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,609,5,0,5,10,15,15,0,5,0,0,10,10,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,610,10,5,5,20,25,25,5,15,5,5,10,25,20,30,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+20-SEP-1994,611,5,10,5,10,15,10,20,5,10,5,10,15,15,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-DEC-2000,613,0,0,5,5,10,20,10,5,0,5,15,20,15,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+07-OCT-1999,614,5,0,5,15,30,15,5,10,10,5,25,35,20,0,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1996,615,15,10,5,5,5,35,25,25,15,10,25,10,45,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-1999,616,10,0,5,0,0,10,10,10,5,15,5,15,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,616,5,5,10,5,5,20,0,15,5,15,10,20,20,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,616,15,10,5,10,10,10,0,10,10,25,15,20,25,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,617,5,5,5,15,10,20,25,10,5,10,5,15,20,60,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-JUL-1999,618,20,25,20,20,10,20,15,20,20,15,15,10,25,25,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+22-APR-1998,619,5,5,0,5,5,10,5,5,0,0,10,10,5,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,620,10,10,15,20,15,30,10,10,10,10,20,10,25,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,620,15,10,15,10,15,30,5,20,10,5,10,0,15,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1997,622,5,5,5,10,5,5,5,5,5,0,15,15,25,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-FEB-2000,623,15,5,0,5,20,30,15,15,10,5,0,5,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,624,10,10,15,10,5,20,25,15,10,5,5,5,15,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,625,15,15,10,20,15,35,35,25,20,15,15,25,20,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2002,626,0,20,20,30,20,25,25,5,10,15,10,15,15,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,628,15,20,20,15,20,30,5,10,30,30,30,20,40,40,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+09-NOV-2009,628,15,15,20,15,20,30,10,25,25,30,30,40,65,35,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1995,629,5,5,5,0,0,0,5,5,10,0,0,5,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,630,15,25,50,55,60,70,75,20,30,60,55,60,85,75,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2006,630,15,15,45,45,50,45,65,20,30,50,40,60,50,65,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-APR-1998,631,15,5,10,5,10,10,15,15,5,10,10,15,10,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,632,20,30,35,25,25,20,5,20,25,20,10,20,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,633,0,0,5,10,10,25,20,10,0,10,5,5,20,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+20-SEP-1999,634,10,15,20,20,20,15,25,10,15,20,15,10,10,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,635,5,5,10,15,10,10,15,10,0,0,5,15,20,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,636,10,20,20,25,20,20,15,15,20,20,20,20,25,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,637,15,10,10,0,20,10,0,0,0,0,5,0,25,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+01-DEC-1994,639,5,5,15,20,25,30,15,5,0,10,35,35,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+02-OCT-2000,640,0,0,10,35,25,20,0,10,0,20,20,20,25,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,640,0,10,20,45,35,30,0,20,10,25,35,30,10,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,641,0,0,0,0,5,0,0,0,0,0,0,0,0,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+10-SEP-2004,642,10,0,15,20,35,15,15,10,5,10,10,5,15,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+22-APR-1998,643,10,15,25,20,10,10,10,10,10,15,10,20,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1995,644,15,5,15,15,20,25,5,20,10,15,20,25,25,20,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+21-AUG-1997,645,5,10,0,5,15,35,20,15,5,0,0,0,25,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1995,646,15,10,5,15,20,15,5,15,10,10,15,15,0,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,647,5,0,5,5,15,25,0,5,5,10,5,5,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+02-FEB-2000,647,15,10,5,10,25,25,0,15,5,5,5,15,10,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,647,5,15,15,15,30,40,5,5,0,0,0,25,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,647,5,10,10,10,35,30,5,5,5,10,5,10,15,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,648,10,0,10,10,40,25,20,10,20,10,10,20,20,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,648,10,10,10,15,35,50,25,10,5,0,10,25,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2000,650,25,15,35,50,55,65,**,40,30,35,50,50,70,**,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-JAN-1995,651,5,0,0,5,5,15,0,5,0,5,0,5,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+09-FEB-2001,653,5,0,5,10,10,15,0,0,5,0,0,0,0,0,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2002,654,15,20,15,10,10,15,10,20,15,10,15,15,25,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1997,656,10,10,5,0,5,10,15,10,5,5,5,0,15,40,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-APR-1998,657,5,5,0,0,0,10,5,10,0,0,5,0,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+18-SEP-2000,658,5,0,5,5,5,5,0,0,0,5,10,10,15,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,659,25,25,40,50,50,55,35,20,20,25,30,50,65,65,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,660,15,15,10,10,15,20,10,15,15,10,10,35,35,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-APR-1998,661,15,5,10,5,15,15,10,15,10,10,15,10,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-1995,662,15,15,15,15,25,20,10,15,20,20,10,15,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1997,662,15,10,10,10,20,20,20,15,10,10,5,15,5,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,662,15,15,15,10,20,15,20,20,20,15,5,10,15,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+21-JUL-1999,663,5,10,10,0,10,5,0,10,5,15,5,30,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-FEB-1997,664,0,5,0,5,0,10,5,0,5,5,0,0,5,15,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,664,5,10,5,10,5,15,5,5,10,5,0,10,30,5,F,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-APR-1998,665,5,0,0,0,0,5,5,5,5,5,5,5,15,15,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,665,10,0,0,0,0,15,0,15,5,0,0,5,15,0,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,666,5,5,5,5,10,5,5,5,0,5,0,5,0,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-SEP-2000,666,5,5,5,5,15,10,10,5,5,5,0,5,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,666,5,5,15,10,5,10,5,0,5,15,15,25,5,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,667,20,15,10,10,10,5,5,5,5,10,5,5,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-APR-1998,669,10,5,0,10,15,15,0,5,0,5,5,5,10,0,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,670,20,10,20,20,15,20,30,10,10,15,20,15,25,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+27-FEB-1997,671,0,0,0,0,0,5,5,0,0,10,0,0,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-APR-1998,672,0,0,0,0,5,20,0,0,0,5,5,5,15,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2003,673,5,5,15,10,5,20,10,10,5,15,15,10,5,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+19-JUN-1995,674,15,5,0,5,0,20,10,15,5,5,5,5,20,0,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2000,675,10,10,10,0,5,15,15,10,10,15,0,0,15,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,675,15,20,20,10,10,30,10,5,10,25,5,20,15,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2002,676,5,10,10,5,5,25,15,25,15,25,15,10,35,20,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,677,10,15,15,30,25,15,10,15,15,10,15,15,40,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-AUG-1996,677,15,15,15,25,25,30,10,15,20,15,15,20,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-APR-1998,678,0,5,10,10,5,5,0,5,5,10,5,5,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,679,5,5,5,20,15,45,25,0,0,5,15,25,30,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-SEP-2007,679,10,5,5,15,10,45,25,5,5,5,15,30,35,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+24-APR-1998,680,5,0,5,10,0,0,0,5,10,5,5,0,0,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2002,681,15,25,25,15,15,25,10,20,20,25,15,15,15,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+31-AUG-1995,682,0,5,15,55,55,45,30,5,5,10,55,45,30,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,683,0,5,10,20,25,35,35,0,5,5,5,15,35,15,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1997,683,0,15,5,25,25,35,40,5,10,5,15,35,40,30,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,683,20,30,25,35,35,50,55,10,20,20,15,30,50,45,F,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+15-FEB-1995,684,5,5,0,5,5,0,0,10,10,5,5,5,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+06-DEC-2000,684,10,5,0,5,15,15,0,10,5,0,5,5,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-APR-1998,685,0,0,5,5,15,0,0,5,0,5,5,20,15,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1997,686,5,0,20,35,40,50,50,5,0,10,20,15,30,35,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+15-FEB-1995,687,10,5,15,10,10,5,0,10,5,15,15,0,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+17-JAN-1996,688,5,5,5,5,0,5,0,5,10,10,0,5,15,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-APR-1998,689,0,5,5,15,10,10,5,10,5,15,15,30,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-2001,689,15,25,20,15,20,15,10,15,20,20,15,20,15,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,690,25,20,60,35,25,20,25,20,10,25,25,15,45,50,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+03-OCT-1997,690,30,20,60,35,25,25,35,15,10,35,25,15,45,60,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,690,25,30,65,40,30,45,45,15,10,35,20,20,40,45,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2001,691,10,15,5,10,10,15,10,10,15,15,15,15,25,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1998,692,15,15,15,15,5,10,10,15,10,10,10,20,15,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,693,15,5,10,5,10,10,15,20,10,15,0,15,10,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,693,10,10,10,5,15,15,15,10,10,10,5,15,20,20,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,694,10,5,0,5,15,10,0,10,5,5,5,20,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1997,694,5,5,5,0,10,15,0,10,5,10,5,20,15,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+05-SEP-1995,695,10,10,5,10,20,25,30,10,5,10,10,20,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-2000,695,15,10,10,25,30,45,35,10,15,15,15,20,45,45,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,695,10,5,5,25,45,35,45,10,5,15,20,30,40,45,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,695,15,10,15,25,40,40,50,15,10,10,25,35,35,60,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-APR-1998,696,5,0,0,25,25,15,0,15,5,0,5,5,20,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1995,697,20,10,15,40,45,45,20,15,10,20,65,60,55,45,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+16-AUG-1996,697,15,10,20,45,55,45,25,15,10,25,60,60,55,45,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,698,10,30,55,55,65,45,25,10,25,50,50,55,35,30,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,700,5,10,10,30,25,20,15,15,20,15,60,60,45,40,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+29-SEP-1994,702,20,10,15,25,35,45,10,10,10,10,15,25,25,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+06-FEB-1996,702,15,10,10,25,35,35,25,15,10,15,20,30,20,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1995,704,5,5,5,20,35,30,0,5,5,5,30,50,45,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+12-AUG-1996,704,5,5,5,20,35,35,0,10,5,10,35,45,40,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+08-SEP-2004,706,15,10,15,45,40,30,30,10,15,15,25,40,20,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-OCT-2000,707,5,5,15,25,15,15,5,10,15,15,20,15,20,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,707,5,10,20,35,20,25,0,5,15,15,20,25,20,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,709,15,10,10,15,20,15,20,10,10,5,5,0,5,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,710,20,15,35,75,45,50,35,35,50,70,45,30,50,65,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,711,25,20,15,55,50,25,25,15,15,5,45,35,20,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+10-SEP-2004,712,5,10,0,15,20,20,10,10,10,0,25,25,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-APR-1998,713,5,5,15,0,5,5,10,10,10,15,5,10,5,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-AUG-1997,714,0,0,0,15,25,25,10,5,0,5,15,25,30,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+27-APR-1998,716,5,10,15,15,10,20,5,10,5,15,15,5,10,5,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,717,20,30,25,20,10,10,5,15,20,20,15,10,25,30,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,718,15,5,10,20,15,30,20,10,15,10,10,15,15,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-APR-1998,719,5,0,15,5,20,15,5,10,5,5,10,20,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,719,5,10,15,10,30,10,5,15,5,10,5,20,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+20-OCT-1998,721,10,0,15,15,5,25,10,15,5,10,20,10,30,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+28-NOV-1994,722,0,0,0,0,0,20,10,5,0,0,5,0,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+17-AUG-1995,723,10,15,10,15,15,25,25,15,5,20,20,15,35,40,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+27-AUG-1996,723,10,10,10,20,10,45,45,10,5,15,20,10,35,45,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+28-AUG-1995,725,15,15,15,10,15,15,25,10,15,10,20,15,25,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-AUG-1996,725,10,15,10,10,15,20,20,5,10,10,15,10,30,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,726,10,0,5,20,15,5,5,10,5,25,25,15,5,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,727,15,15,25,15,25,20,30,15,15,25,20,25,25,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+07-SEP-2001,728,10,10,25,30,45,45,15,5,10,20,25,30,35,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,729,5,0,0,15,10,0,5,5,0,0,10,5,0,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-APR-1998,730,0,0,5,0,0,10,5,5,0,0,0,0,0,5,F,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+30-NOV-1999,731,15,5,15,55,80,90,**,15,10,15,25,45,90,**,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,732,5,10,15,15,15,20,0,5,5,15,0,5,15,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,732,20,15,20,20,25,20,5,20,10,15,0,25,30,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+28-APR-1998,733,5,5,5,10,10,10,5,10,10,5,5,0,10,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,734,15,15,5,10,20,15,20,10,15,15,15,35,25,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+14-SEP-2006,734,15,10,5,5,20,5,5,10,10,5,5,25,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-SEP-1995,735,5,0,5,5,10,15,10,0,0,5,10,15,20,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-2000,735,0,0,0,5,15,30,15,5,5,5,10,15,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,735,0,0,0,10,25,25,15,0,5,10,10,10,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,735,5,5,5,10,25,25,20,5,5,5,20,20,20,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+13-OCT-2005,736,5,5,5,15,10,10,10,5,5,5,15,10,10,5,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,736,5,0,0,15,15,10,5,10,0,5,20,10,10,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,737,10,10,5,10,10,30,15,5,10,10,0,10,25,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,737,10,5,10,20,20,50,20,10,10,10,5,10,15,30,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-OCT-2000,738,35,40,55,50,60,70,65,15,20,20,35,35,40,60,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-2000,739,15,15,15,15,30,30,25,25,15,20,20,35,40,25,M,336399,5,MA,All Other Motor Vehicle Parts Manufacturing
+07-AUG-2002,740,10,10,0,10,30,35,25,20,20,10,15,25,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+25-AUG-1995,741,10,10,5,5,15,15,0,15,10,5,10,5,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+06-OCT-1999,741,10,10,5,5,20,15,5,10,10,5,10,10,15,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,743,5,10,10,10,10,20,25,0,10,10,0,15,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+19-AUG-1998,743,5,10,5,5,15,15,15,10,10,5,10,15,25,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-2003,744,15,15,25,30,25,25,30,20,20,20,20,35,25,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+22-AUG-1994,746,15,10,5,15,5,25,15,10,20,10,10,10,25,20,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-1995,748,10,5,10,10,10,10,5,5,5,10,5,20,20,25,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+27-JUL-1999,748,15,15,20,15,15,35,20,10,5,15,10,25,30,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+21-FEB-1995,749,0,0,0,0,0,20,0,0,0,0,0,0,5,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,751,0,15,15,10,25,20,5,10,10,5,20,20,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,751,10,5,5,15,15,10,0,15,5,5,20,20,25,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+12-SEP-1994,752,15,20,20,40,55,40,35,15,15,25,25,55,45,40,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+12-AUG-1997,753,10,10,15,40,70,55,55,10,15,10,10,40,40,35,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+29-APR-1998,754,5,15,5,5,5,0,0,10,5,0,5,10,10,0,F,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+01-DEC-1994,755,5,0,0,0,15,15,5,5,0,0,5,30,25,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+15-OCT-1998,755,5,5,0,5,30,10,0,10,5,0,25,40,30,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+02-OCT-2000,756,10,15,5,0,5,5,10,15,10,5,0,0,0,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+08-SEP-2004,756,15,15,10,0,10,5,0,15,10,5,0,0,0,10,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+06-AUG-2002,757,5,25,20,30,20,25,10,15,20,20,20,10,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+09-SEP-2004,759,15,5,15,10,20,25,15,15,5,0,10,10,25,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+18-AUG-1995,760,0,0,30,65,60,55,50,5,5,15,45,45,45,30,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1997,760,10,0,35,70,60,55,60,5,5,10,50,45,40,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,761,20,15,25,40,40,35,20,15,15,15,30,25,50,10,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,761,15,20,30,40,45,25,30,10,15,10,30,30,25,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+02-JUL-1997,762,0,0,10,10,5,10,15,0,0,5,15,10,10,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,763,5,10,0,15,5,20,0,5,10,10,10,0,15,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+01-NOV-2000,764,5,0,0,30,50,30,5,10,5,10,15,45,20,15,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+29-AUG-1995,765,10,10,10,10,10,30,15,10,10,15,5,5,20,15,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+13-AUG-1997,765,5,10,10,10,15,25,15,10,10,15,0,10,10,20,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+07-OCT-1999,766,10,0,5,15,5,25,10,10,0,5,10,5,30,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-OCT-2005,766,20,15,15,25,25,25,20,20,15,10,20,25,30,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+26-AUG-1997,767,5,5,20,20,20,10,15,15,15,20,10,25,20,0,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,768,10,10,5,0,10,5,5,10,5,5,5,10,0,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+27-SEP-1994,769,20,20,10,10,10,25,10,20,20,10,10,10,25,10,F,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-AUG-2003,771,10,15,10,10,15,35,15,10,5,0,10,15,20,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+15-OCT-1998,774,5,5,5,20,20,20,15,5,5,5,25,30,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,775,10,15,15,15,20,20,20,10,10,10,10,0,20,25,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,775,10,10,10,10,10,20,20,10,10,10,10,15,25,30,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2002,776,25,15,15,20,30,35,30,20,15,20,10,15,15,15,F,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1995,777,10,5,5,5,0,15,5,10,5,5,0,25,30,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+30-AUG-2000,777,5,5,0,5,0,5,15,15,5,0,0,25,20,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,777,5,5,5,0,25,20,15,15,5,5,5,45,35,15,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+23-SEP-2009,777,10,5,10,10,40,25,25,15,5,5,10,50,35,25,M,336399,4,MA,All Other Motor Vehicle Parts Manufacturing
+04-OCT-2005,778,10,15,25,20,20,10,0,10,15,20,20,15,20,5,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+11-SEP-2007,778,15,10,20,20,25,10,5,10,10,15,15,20,20,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+01-SEP-1998,779,10,15,10,10,5,20,5,10,10,15,15,10,15,25,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+05-AUG-2003,781,15,5,0,5,0,10,5,5,0,5,0,0,10,10,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+20-OCT-1994,782,10,5,10,10,20,20,5,10,5,10,5,5,10,10,M,336399,1,MA,All Other Motor Vehicle Parts Manufacturing
+24-AUG-1995,783,15,10,5,20,15,15,10,15,5,10,10,10,15,15,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+12-AUG-1996,783,5,5,5,10,5,5,0,5,0,0,5,5,5,0,M,336399,2,MA,All Other Motor Vehicle Parts Manufacturing
+14-OCT-2005,784,10,10,10,30,15,15,5,10,5,10,25,25,0,0,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+24-SEP-2009,784,20,10,5,25,25,10,5,15,10,5,15,20,20,5,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
+08-SEP-2004,785,15,40,55,50,75,75,65,15,25,30,30,45,50,55,M,336399,3,MA,All Other Motor Vehicle Parts Manufacturing
